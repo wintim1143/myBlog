@@ -15,6 +15,5 @@ deploy:
   keep-history: true
   on:
     branch: master
-    root: /myBlog/
   local-dir: public
 
